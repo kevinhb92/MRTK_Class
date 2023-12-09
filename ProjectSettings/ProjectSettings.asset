@@ -634,7 +634,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HololensTest
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\Users\user\Desktop\MRTK Trial\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: WAWALAB
   metroCertificateIssuer: WAWALAB
